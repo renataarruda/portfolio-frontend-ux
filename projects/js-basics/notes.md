@@ -19,7 +19,7 @@ Este arquivo reúne conceitos e trechos importantes aprendidos durante meus estu
 
 Para conferir o tipo de uma variável ou valor, deve-se usar o operador `typeof`.
 
-```js
+```
 typeof 42;              // "number"
 typeof "Renata";        // "string"
 typeof true;            // "boolean"
@@ -27,6 +27,7 @@ typeof undefined;       // "undefined"
 typeof {nome: "Ed"};    // "object"
 typeof null;            // "object" (bug histórico do JS)
 typeof (() => {});      // "function"
+```
 
 ---
 
