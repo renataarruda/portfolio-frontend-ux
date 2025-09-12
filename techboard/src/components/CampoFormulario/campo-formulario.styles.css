@@ -1,0 +1,10 @@
+.campoFormulario {
+  display: flex;
+  width: 384px;
+  padding: 0;
+  margin: 0;
+  flex-direction: column;
+  gap: 8px;
+  border: none;
+  background: var(--grafite-fundo-componentes, #212121);
+}

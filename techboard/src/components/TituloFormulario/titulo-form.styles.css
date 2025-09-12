@@ -1,0 +1,7 @@
+.titulo-form {
+color: var(--branco-texto, #FFF);
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 125%;
+}
