@@ -47,7 +47,7 @@ function App() {
         <img src="/logo.png" alt="Logo Tecboard" />
       </header>
       <Banner />
-      <FormularioEvento />
+      <FormularioEvento temas={temas} />
       {temas.map(function(item) {
         return (
           <section key={item.id}>

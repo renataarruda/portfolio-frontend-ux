@@ -4,7 +4,7 @@ export function CardEvento({ evento }){
 
     return(
         <div className='card-evento'>
-            <img src={evento.capa} alt={evento.titulo} />
+            <img src={evento.capa} alt={evento.titulo}/>
             <div className='body'>
                 <p className='tag'>
                     {evento.tema.nome}

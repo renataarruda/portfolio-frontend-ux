@@ -7,7 +7,7 @@ import { Botao } from '../Botao';
 
 import './form-evento.styles.css';
 
-export function FormularioEvento(){
+export function FormularioEvento( {temas}){
   return (
     <form className="form-evento">
       <TituloFormulario>
@@ -30,7 +30,7 @@ export function FormularioEvento(){
         <Label htmlFor='temaEvento'>
           Tema do evento
         </Label>
-        <ListaSuspensa ></ListaSuspensa>
+        <ListaSuspensa id="tema" name="tema" itens={temas}></ListaSuspensa>
       </CampoFormulario>
       </div>
       <div className='actions'>
