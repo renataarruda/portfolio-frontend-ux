@@ -1,0 +1,11 @@
+.banner {
+  background: linear-gradient(180deg, #17dcb3 0%, #121212 100%);
+  display: flex;
+  justify-content: center;
+}
+
+.banner img {
+  max-width: 90%;
+}
+
+/*Largura fixa, centralizar com a margem*/
