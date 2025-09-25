@@ -35,7 +35,9 @@ Aplicação desenvolvida durante o curso *React 19: JSX, componentes, form actio
 
 ## 🎨 UX Case Studies
 
-Em andamento
+Em andamento.
+
+🔗 [Repositório](https://github.com/renataarruda/portfolio-frontend-ux/tree/main/docs/ux-case-studies)
 
 ---
 ✨ Obrigada por visitar meu portfólio!  
