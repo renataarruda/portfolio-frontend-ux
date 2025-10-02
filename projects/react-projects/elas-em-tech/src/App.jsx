@@ -47,7 +47,7 @@ function App() {
 
    const [eventos, setEventos] = useState([
       {
-      capa: 'https://raw.githubusercontent.com/viniciosneves/tecboard-assets/refs/heads/main/imagem_1.png',
+      capa: 'https://raw.githubusercontent.com/viniciosneves/tecboard-assets/refs/heads/main/imagem_4.png',
       tema: temas[0],
       data: new Date(),
       titulo: 'Mulheres no Front'
