@@ -22,14 +22,14 @@ O projeto é uma adaptação do *Tecboard* apresentado no curso.
 [![CSS](https://img.shields.io/badge/CSS-Modules-purple)]()  
 
 ## Screenshot
-![Screenshot do Elas em Tech](assets/screenshots/screenshot_01.png)
+![Screenshot do Elas em Tech](image.png)
 
 ---
 
 ## Como rodar o projeto
-
-Clone este repositório:
 ```bash
+Clone este repositório:
+
 git clone 
 [https://github.com/renataarruda/portfolio-frontend-ux/tree/main/projects/react-projects/tecboard-alura]
 
@@ -50,5 +50,5 @@ http://localhost:5173
 [Demo Online](https://elas-em-tech.vercel.app/)
 
 ## Aprendizado
-*Este ptojeto marcou meu primeiro contato com React 19 e Vite, me ajudando a consolidar conceitos de componentes e formulários.*
+*Este projeto marcou meu primeiro contato com React 19 e Vite, me ajudando a consolidar conceitos de componentes e formulários.*
 
