@@ -27,24 +27,29 @@ O projeto é uma adaptação do *Tecboard* apresentado no curso.
 ---
 
 ## Como rodar o projeto
-```bash
-Clone este repositório:
 
+Clone este repositório:
+```bash
 git clone 
 [https://github.com/renataarruda/portfolio-frontend-ux/tree/main/projects/react-projects/elas-em-tech]
-
-Instale as dependências:  
+```
+Instale as dependências:
+```bash
 npm install
-
-Inicie o servidor de desenvolvimento:  
+```
+Inicie o servidor de desenvolvimento:
+```bash
 npm run dev
-
-Abra no navegador:  
+```
+Abra no navegador:
+```bash 
 http://localhost:5173
 ```
 
 ## Links
 [Demo Online](https://elas-em-tech.vercel.app/)
+
+<video controls src="elas_em_tech.mp4" title="Title"></video>
 
 ## Aprendizado
 *Este projeto marcou meu primeiro contato com React 19 e Vite, me ajudando a consolidar conceitos de componentes e formulários.*
