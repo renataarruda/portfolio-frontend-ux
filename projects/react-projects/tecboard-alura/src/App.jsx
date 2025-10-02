@@ -4,6 +4,8 @@ import { FormularioEvento } from "./components/FormularioEvento";
 import { Tema } from "./components/Tema";
 import { CardEvento } from "./components/CardEvento";
 import { useState } from "react";
+import logo from '../src/assets/logo.png';
+
 
 function App() {
 
@@ -32,6 +34,14 @@ function App() {
       id: 6,
       nome: "cloud",
     },
+    {
+      id: 7,
+      nome: "ux design",
+    },
+    {
+      id: 8,
+      nome: "produto",
+    }
   ];
 
 
@@ -51,7 +61,7 @@ function App() {
   return (
     <main>
       <header>
-        <img src="/logo.png" alt="Logo Tecboard" />
+        <img src={logo} alt="Logo Elas em Tech" />
       </header>
       <Banner />
       <FormularioEvento
