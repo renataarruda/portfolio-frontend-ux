@@ -35,7 +35,7 @@ export function FormularioEvento({ temas, onSubmit }) {
           <Input
             type="text"
             id="nomeEvento"
-            placeholder="Summer dev hits"
+            placeholder="PrograMaria Summit"
             name="nomeEvento"
           />
         </CampoFormulario>
