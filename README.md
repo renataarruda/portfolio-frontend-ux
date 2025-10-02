@@ -16,8 +16,8 @@ Este repositório reúne **projetos práticos**, **protótipos no Figma** e **ca
 
 ## 🚀 Projetos em Destaque
 
-### Tecboard - Cadastro de Eventos
-📍 **Descrição:** O Tecboard é um formulário interativo para registrar eventos de tecnologia.
+### Elas em Tech - Cadastro de Eventos
+📍 **Descrição:** O Elas em Tech é um formulário interativo para registrar eventos de mulheres na tecnologia.
 Aplicação desenvolvida durante o curso *React 19: JSX, componentes, form action e useState*, da Alura.
 
 💡 Trabalhei conceitos de componentes, props, estados e estilização.  
@@ -29,9 +29,9 @@ Aplicação desenvolvida durante o curso *React 19: JSX, componentes, form actio
 [![Vite](https://img.shields.io/badge/Vite-5.0-646CFF)]() 
 [![CSS](https://img.shields.io/badge/CSS-Modules-purple)]()  
 
-🔗 [Repositório](https://github.com/renataarruda/portfolio-frontend-ux/tree/main/projects/react-projects/tecboard-alura) | [Demo](https://tecboard-alura.vercel.app/)
+🔗 [Repositório](https://github.com/renataarruda/portfolio-frontend-ux/tree/main/projects/react-projects/tecboard-alura) | [Demo](https://elas-em-tech.vercel.app/)
 
-![Screenshot do projeto](assets/screenshots/image.png)
+![Screenshot do projeto](assets/screenshots/screenshot_01.png)
 
 ## 🎨 UX Case Studies
 

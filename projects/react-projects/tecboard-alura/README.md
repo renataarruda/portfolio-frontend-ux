@@ -1,7 +1,5 @@
 # Elas em Tech - Cadastro de Eventos de Mulheres na Tecnologia
 
----
-
 ## Sobre o projeto
 O **Elas em Tech** é um formulário interativo para **cadastro de eventos de tecnologia voltados para mulheres**, desenvolvido durante meus estudos em **React 19** com **Vite** ao longo do curso *React 19: JSX, componentes, form action e useState*, da Alura.
 
@@ -24,7 +22,7 @@ O projeto é uma adaptação do *Tecboard* apresentado no curso.
 [![CSS](https://img.shields.io/badge/CSS-Modules-purple)]()  
 
 ## Screenshot
-![Screenshot do Elas em Tech]()
+![Screenshot do Elas em Tech](assets/screenshots/screenshot_01.png)
 
 ---
 
@@ -52,5 +50,5 @@ http://localhost:5173
 [Demo Online](https://elas-em-tech.vercel.app/)
 
 ## Aprendizado
-*Este ptojeto marcou meu primeiro contato com React 19 e Vite, me ajudando a consolidar conceitos de componentes e formulários."*
+*Este ptojeto marcou meu primeiro contato com React 19 e Vite, me ajudando a consolidar conceitos de componentes e formulários.*
 
