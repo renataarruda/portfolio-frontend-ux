@@ -24,6 +24,10 @@ export function FormularioEvento({ temas, onSubmit }) {
     };
 
     onSubmit(evento);
+
+    formData.reset(evento);
+
+   // e.target.reset();
   }
 
   return (
