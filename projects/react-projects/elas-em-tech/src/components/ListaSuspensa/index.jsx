@@ -2,7 +2,7 @@ import './lista-suspensa.styles.css';
 
 export function ListaSuspensa( { itens, ...rest }) {
     return (
-        <select {...rest} className="lista-suspensa" defaultValue="">
+        <select {...rest} className="lista-suspensa">
             <option value="" disabled>
                 Selecione uma opção
             </option>
