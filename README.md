@@ -29,9 +29,11 @@ Aplicação desenvolvida durante o curso *React 19: JSX, componentes, form actio
 [![Vite](https://img.shields.io/badge/Vite-5.0-646CFF)]() 
 [![CSS](https://img.shields.io/badge/CSS-Modules-purple)]()  
 
-🔗 [Repositório](https://github.com/renataarruda/portfolio-frontend-ux/tree/main/projects/react-projects/tecboard-alura) | [Demo](https://elas-em-tech.vercel.app/)
+🔗 [Repositório](https://github.com/renataarruda/portfolio-frontend-ux/tree/main/projects/react-projects/elas-em-tech) | [Demo](https://elas-em-tech.vercel.app/)
 
 ![Screenshot do projeto](assets/screenshots/screenshot_01.png)
+
+(Mais projetos em breve)
 
 ## 🎨 UX Case Studies
 
