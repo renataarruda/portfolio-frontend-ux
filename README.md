@@ -3,7 +3,7 @@
 Bem-vindo(a) ao meu portfólio! 🚀  
 Aqui compartilho meus estudos e projetos em **desenvolvimento front-end** (JavaScript, React 19, Vite, Next 15) e **UX/UI Design** (Google UX Design Certificate - Coursera).  
 
-Este repositório reúne **projetos práticos**, **protótipos no Figma** e **case studies** que desenvolvi ao longo da minha jornada de transição de carreira para tecnologia.  
+Este repositório reúne **projetos práticos**, **protótipos no Figma** e **case studies** que estou desenvolvendo ao longo da minha jornada de transição de carreira para o front-end/UX.  
 
 ---
 
