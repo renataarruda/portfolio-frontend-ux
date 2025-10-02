@@ -41,6 +41,10 @@ function App() {
     {
       id: 8,
       nome: "produto",
+    },
+    {
+      id: 9,
+      nome: "geral",
     }
   ];
 
