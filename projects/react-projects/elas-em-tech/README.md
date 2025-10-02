@@ -33,9 +33,6 @@ Clone este repositório:
 git clone 
 [https://github.com/renataarruda/portfolio-frontend-ux/tree/main/projects/react-projects/elas-em-tech]
 
-Entre na pasta do projeto:  
-cd 
-
 Instale as dependências:  
 npm install
 
