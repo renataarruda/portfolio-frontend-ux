@@ -18,8 +18,7 @@ O projeto é uma adaptação do *Tecboard* apresentado no curso.
 
 [![React](https://img.shields.io/badge/React-19-blue)]() 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)]() 
-[![Vite](https://img.shields.io/badge/Vite-5.0-646CFF)]() 
-[![CSS](https://img.shields.io/badge/CSS-Modules-purple)]()  
+[![Vite](https://img.shields.io/badge/Vite-5.0-646CFF)]()  
 
 ## Screenshot
 ![Screenshot do Elas em Tech](image.png)
@@ -48,8 +47,6 @@ http://localhost:5173
 
 ## Links
 [Demo Online](https://elas-em-tech.vercel.app/)
-
-<video controls src="elas_em_tech.mp4" title="Title"></video>
 
 ## Aprendizado
 *Este projeto marcou meu primeiro contato com React 19 e Vite, me ajudando a consolidar conceitos de componentes e formulários.*

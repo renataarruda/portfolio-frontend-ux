@@ -1,6 +1,7 @@
 # Portfólio Front-End + UX/UI
 
-Bem-vindo(a) ao meu portfólio! 🚀  
+Bem-vindo(a) ao meu portfólio! 🚀 
+
 Aqui compartilho meus estudos e projetos em **desenvolvimento front-end** (JavaScript, React 19, Vite, Next 15) e **UX/UI Design** (Google UX Design Certificate - Coursera).  
 
 Este repositório reúne **projetos práticos**, **protótipos no Figma** e **case studies** que estou desenvolvendo ao longo da minha jornada de transição de carreira para o front-end/UX.  
@@ -27,7 +28,6 @@ Aplicação desenvolvida durante o curso *React 19: JSX, componentes, form actio
 [![React](https://img.shields.io/badge/React-19-blue)]() 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)]() 
 [![Vite](https://img.shields.io/badge/Vite-5.0-646CFF)]() 
-[![CSS](https://img.shields.io/badge/CSS-Modules-purple)]()  
 
 🔗 [Repositório](https://github.com/renataarruda/portfolio-frontend-ux/tree/main/projects/react-projects/elas-em-tech) | [Demo](https://elas-em-tech.vercel.app/)
 
