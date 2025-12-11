@@ -60,7 +60,8 @@ A partir da Home, o usuário pode:
 - Ver avaliações e informações do local  
 - Abrir o mapa e navegar até o destino  
 
-![Tela Inicial](../assets/images/goVeg-app.png)
+<img width="469" height="837" alt="Home" src="https://github.com/user-attachments/assets/bcdba4b1-377e-4d97-af85-645fcdcae3ff" />
+
 
 ---
 
@@ -79,9 +80,9 @@ Isso guiou escolhas relacionadas à linguagem visual, tipografia e estilo das te
 - Uso de imagens coloridas e alegres  
 - Paleta com **tons terrosos**  
 - Evitar o tradicional verde (muito comum em apps veganos)  
-- Atmosfera moderna, leve e convidativa  
+- Atmosfera moderna, leve e convidativa
 
-![Moodboard](../assets/images/moodboard.png)
+<img width="2323" height="1297" alt="Mood board (3)" src="https://github.com/user-attachments/assets/f1a637e8-fa7e-478d-8873-a49aa7448a80" />
 
 ---
 
@@ -158,7 +159,7 @@ Após algumas revisões:
 - Melhorar contraste tipográfico  
 - Refinar a paleta para mais harmonia
 
-- `feedbacks-goVeg.png`  
+<img width="843" height="744" alt="Captura de tela 2025-12-11 000017" src="https://github.com/user-attachments/assets/8e773c56-683f-487e-9150-a5dc6f6f6964" />
 
 ---
 
@@ -166,14 +167,16 @@ Após algumas revisões:
 
 Clique para acessar o PDF do projeto completo:
 
-👉 [**Download do PDF**](../assets/goveg.pdf)
+👉 [**Visualizar do PDF**](https://github.com/renataarruda/portfolio-frontend-ux/blob/main/docs/ux-case-studies/GoVeg-Final.pdf)
 
 ---
 
 # 🖼 Galeria de Telas 
 
-- `goVeg-app.png`  
-- `moodboard.png`  
+<img width="1764" height="1048" alt="GoVeg App (1)" src="https://github.com/user-attachments/assets/e113452d-e377-498b-9626-87a7e6ea969f" />
+
+<img width="1051" height="593" alt="Captura de tela 2025-12-11 005813" src="https://github.com/user-attachments/assets/afe7e7a5-a4e1-4c6d-86f7-53392670cdf2" />
+
 
 ---
 
