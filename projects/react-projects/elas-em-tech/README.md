@@ -30,7 +30,8 @@ O projeto é uma adaptação do *Tecboard* apresentado no curso.
 Clone este repositório:
 ```bash
 git clone 
-[https://github.com/renataarruda/portfolio-frontend-ux/tree/main/projects/react-projects/elas-em-tech]
+(https://github.com/renataarruda/portfolio-frontend-ux.git)
+cd /projects/react-projects/elas-em-tech
 ```
 Instale as dependências:
 ```bash
