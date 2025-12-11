@@ -167,7 +167,7 @@ Após algumas revisões:
 
 Clique para acessar o PDF do projeto completo:
 
-👉 [**Visualizar do PDF**](https://github.com/renataarruda/portfolio-frontend-ux/blob/main/docs/ux-case-studies/GoVeg-Final.pdf)
+👉 [**Visualizar do PDF**]()
 
 ---
 
