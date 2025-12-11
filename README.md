@@ -2,14 +2,14 @@
 
 Bem-vindo(a) ao meu portfólio! 🚀 
 
-Aqui compartilho meus estudos e projetos em **desenvolvimento front-end** (JavaScript, React 19, Vite, Next 15) e **UX/UI Design** (Google UX Design Certificate - Coursera).  
+Aqui compartilho meus estudos e projetos em **desenvolvimento front-end** (JavaScript, React 19, Vite) e **UX/UI Design**.  
 
 Este repositório reúne **projetos práticos**, **protótipos no Figma** e **case studies** que estou desenvolvendo ao longo da minha jornada de transição de carreira para o front-end/UX.  
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
-- **Front-End:** HTML5, CSS3, JavaScript (ES6+), React 19, Next 15, Vite  
+- **Front-End:** HTML5, CSS3, JavaScript (ES6+), React 19, Vite  
 - **UX/UI Design:** Figma, Design System, Prototipação, Pesquisa com Usuários  
 - **Outros:** Git, GitHub 
 
@@ -18,10 +18,10 @@ Este repositório reúne **projetos práticos**, **protótipos no Figma** e **ca
 ## 🚀 Projetos em Destaque
 
 ### Elas em Tech - Cadastro de Eventos
-📍 **Descrição:** O Elas em Tech é um formulário interativo para registrar eventos de mulheres na tecnologia.
+O Elas em Tech é um formulário interativo para registrar eventos de mulheres na tecnologia.
 Aplicação desenvolvida durante o curso *React 19: JSX, componentes, form action e useState*, da Alura.
 
-💡 Trabalhei conceitos de componentes, props, estados e estilização.  
+Trabalhei conceitos de componentes, props, estados e estilização.  
 
 🛠 **Tecnologias:**
 
@@ -35,11 +35,13 @@ Aplicação desenvolvida durante o curso *React 19: JSX, componentes, form actio
 
 (Mais projetos em breve)
 
-## 🎨 UX Case Studies
+## 🎨 UX/UI Case Studies
 
-Em andamento.
+### GoVeg App – Localizador de opções veganas
+Aplicativo conceitual criado durante o curso da CalArts, focado em explorar fundamentos de UI como composição, hierarquia, convenções visuais e construção de telas.
+O projeto foi desenvolvido no Miro e marcou meus primeiros passos em design de interfaces.
 
-🔗 [Repositório](https://github.com/renataarruda/portfolio-frontend-ux/tree/main/docs/ux-case-studies)
+🔗 [GoVeg App](docs/ui-case-studies/goveg-case.md)
 
 ---
 ✨ Obrigada por visitar meu portfólio!  
