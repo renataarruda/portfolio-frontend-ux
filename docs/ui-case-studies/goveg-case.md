@@ -2,6 +2,8 @@
 Projeto desenvolvido durante o curso **Visual Elements of User Interface Design** (California Institute of the Arts — CalArts).  
 Este case documenta o processo criativo, decisões de design, aprendizados e o resultado final do estudo.
 
+<img width="1908" height="1107" alt="Capa" src="https://github.com/user-attachments/assets/e665fe07-2019-4d79-926a-175a31027927" />
+
 ---
 
 ## 📌 Visão Geral
@@ -180,4 +182,4 @@ Clique para acessar o PDF do projeto completo:
 
 ---
 
-[⬅ Voltar ao portfólio](../index.md)
+[⬅ Voltar ao portfólio](../ui-case-studies/index.md)
