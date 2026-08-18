@@ -1,6 +1,6 @@
 import List from "../List/List";
 
-const Tecnologies = () => {
+const Technologies = () => {
   const TITLE = "Tecnologias";
 
   const techs = ["React", "Typescript", "Javascript", "HTML", "CSS", "Vitest", "MaterialUI"];
@@ -12,4 +12,4 @@ const Tecnologies = () => {
   );
 };
 
-export default Tecnologies;
+export default Technologies;
