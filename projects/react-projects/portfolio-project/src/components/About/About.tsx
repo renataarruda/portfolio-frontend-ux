@@ -4,7 +4,7 @@ const About = () => {
 
     const aboutMeTitle = "Sobre mim"
 
-    const sobreMim = "Eu sou a Renata, ex-redatora que virou desenvolvedora de software.\nNo momento, atuo na área de Pesquisa, Desenvolvimento e Inovação desenvolvendo o front-end de aplicações para o setor de energia.\nMinhas tecnologias favoritas são o React e também gosto de UX.\nMeu objetivo é me tornar uma Front-End UX Engineer."
+    const sobreMim = "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\nLorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley,\nthe librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets."
 
     return(
         <div>

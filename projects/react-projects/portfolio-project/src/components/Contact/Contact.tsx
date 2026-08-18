@@ -11,9 +11,9 @@ const Contact = () => {
   const downloadButton = "Baixar currículo";
 
   const contato = {
-    linkedIn: "https://linkedin.com/in/renata-arruda-web/",
+    linkedIn: "https://linkedin.com/",
     github: "https://github.com/",
-    email: "mailto:renata.arruda@gmail.com",
+    email: "mailto:email@gmail.com",
   };
 
   return (
