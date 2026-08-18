@@ -33,4 +33,4 @@ Durante o projeto, explorei os seguintes recursos do Figma:
 ---
 
 
-[⬅ Voltar ao portfólio](../index.md)
+[⬅ Voltar ao portfólio](../ui-case-studies/index.md)
