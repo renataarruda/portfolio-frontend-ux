@@ -1,7 +1,13 @@
-import { FaGithub } from "react-icons/fa";
-import { FaLinkedin } from "react-icons/fa";
-import { MdEmail } from "react-icons/md";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
 import GenericButton from "../GenericButton/GenericButton";
+import SocialLink from "../SocialLink/SocialLink";
+import { MdEmail } from "react-icons/md";
+
+  const contatos = {
+    linkedIn: "https://linkedin.com/",
+    github: "https://github.com/",
+    email: "mailto:email@gmail.com",
+  };
 
 const Contact = () => {
   const TITLE = "Contato";
@@ -10,27 +16,13 @@ const Contact = () => {
 
   const downloadButton = "Baixar currículo";
 
-  const contato = {
-    linkedIn: "https://linkedin.com/",
-    github: "https://github.com/",
-    email: "mailto:email@gmail.com",
-  };
-
   return (
     <div>
       <h2>{TITLE}</h2>
       <h4>{DESCRICAO}</h4>
-      <div>
-        <a href={contato.linkedIn}>
-          <FaLinkedin title="Linkedin" size={30} />
-        </a>
-        <a href={contato.github}>
-          <FaGithub title="Github" size={30} />
-        </a>
-        <a href={contato.email}>
-          <MdEmail title="Email" size={30} />
-        </a>
-      </div>
+      <SocialLink redeSocial={contatos.linkedIn} Icon={FaLinkedin}/>
+      <SocialLink redeSocial={contatos.github} Icon={FaGithub}/>
+      <SocialLink redeSocial={contatos.email} Icon={MdEmail}/>
       <GenericButton title={downloadButton} />
     </div>
   );

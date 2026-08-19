@@ -2,6 +2,8 @@ interface Props {
   title: string;
 }
 
+//Refatorar
+
 // const handleDownload = () => {
 //   window.open("/arquivo.pdf", "_blank"); 
 // }

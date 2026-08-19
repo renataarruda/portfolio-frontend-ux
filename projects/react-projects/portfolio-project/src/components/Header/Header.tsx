@@ -1,3 +1,5 @@
+import ProfileInfo from "../ProfileInfo/ProfileInfo";
+
 const Header = () => {
   const user = {
     nome: "Renata Arruda",
@@ -7,20 +9,15 @@ const Header = () => {
     cidade: "Rio de Janeiro",
     imageSize: 150,
   };
-  
+
   return (
     <div>
-      <h1>{user.nome}</h1>
-      <h2>{user.cargo}</h2>
-      <h3>{user.cidade}</h3>
-      <img
-        className="avatar"
-        src={user.imageURL}
-        alt={"Imagem de " + user.nome}
-        style={{
-          width: user.imageSize,
-          height: user.imageSize,
-        }}
+      <ProfileInfo
+        nome={user.nome}
+        imageURL={user.imageURL}
+        cargo={user.cargo}
+        cidade={user.cidade}
+        imageSize={user.imageSize}
       />
     </div>
   );
