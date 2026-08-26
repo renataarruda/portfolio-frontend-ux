@@ -3,16 +3,24 @@ import GenericButton from "../GenericButton/GenericButton";
 import SocialLink from "../SocialLink/SocialLink";
 import { MdEmail } from "react-icons/md";
 
-  const contatos = {
-    linkedIn: "https://linkedin.com/",
-    github: "https://github.com/",
-    email: "mailto:email@gmail.com",
-  };
+const contatos = {
+  linkedIn: "https://linkedin.com/",
+  github: "https://github.com/",
+  email: "mailto:email@gmail.com",
+};
+
+const handleDownload = () => {
+  window.open("/arquivo.pdf", "_blank");
+};
+
+{
+  /* <a href="/arquivo.pdf" download="arquivo.pdf"> */
+}
 
 const Contact = () => {
   const TITLE = "Contato";
 
-  const DESCRICAO = "Estou disponível para novos projetos. Vamos conversar?"
+  const DESCRICAO = "Estou disponível para novos projetos. Vamos conversar?";
 
   const downloadButton = "Baixar currículo";
 
@@ -20,10 +28,10 @@ const Contact = () => {
     <div>
       <h2>{TITLE}</h2>
       <h4>{DESCRICAO}</h4>
-      <SocialLink redeSocial={contatos.linkedIn} Icon={FaLinkedin}/>
-      <SocialLink redeSocial={contatos.github} Icon={FaGithub}/>
-      <SocialLink redeSocial={contatos.email} Icon={MdEmail}/>
-      <GenericButton title={downloadButton} />
+      <SocialLink redeSocial={contatos.linkedIn} Icon={FaLinkedin} />
+      <SocialLink redeSocial={contatos.github} Icon={FaGithub} />
+      <SocialLink redeSocial={contatos.email} Icon={MdEmail} />
+      <GenericButton children={downloadButton} onClick={handleDownload} />
     </div>
   );
 };

@@ -1,21 +1,17 @@
+import type { MouseEventHandler, ReactNode } from "react";
+
 interface Props {
-  title: string;
+  children: ReactNode;
+  onClick?: MouseEventHandler<HTMLButtonElement>;
 }
 
-//Refatorar
-
-// const handleDownload = () => {
-//   window.open("/arquivo.pdf", "_blank"); 
-// }
-
-const GenericButton = ({ title }: Props) => {
+const GenericButton = ({ onClick, children }: Props) => {
   return (
     <div>
-      <a href="/arquivo.pdf" download="arquivo.pdf">
-        <button 
-        style={{cursor: "pointer"}}
-        >{title}</button>
-      </a>
+      <button onClick={onClick} style={{ cursor: "pointer" }}>
+        {children}
+      </button>
+      {/* </a> */}
     </div>
   );
 };
